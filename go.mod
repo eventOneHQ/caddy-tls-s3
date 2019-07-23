@@ -1,4 +1,4 @@
-module storages3
+module github.com/eventonehq/caddy-tls-s3
 
 go 1.12
 

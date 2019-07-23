@@ -1,4 +1,4 @@
-package github.com/eventonehq/caddy-tls-s3
+package storages3
 
 import (
 	"os"
